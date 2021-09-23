@@ -1,4 +1,3 @@
-                                             QUIENT TRAININGS 
 
 Technologies Used:
 1.Python 

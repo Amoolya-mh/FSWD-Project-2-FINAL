@@ -28,9 +28,6 @@ Getting Started With Admin
 create a superuser
 $ python manage.py createsuperuser
 
-After this Username and Password should 
-Username- Quient
-Password- Quient123
 
 
 
